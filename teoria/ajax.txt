@@ -1,0 +1,5 @@
+- Asynchronous Javascript and XML (Javascript e XML assíncrono)
+- possibilita a chamada de um recurso no servidor através de um código Javascript do cliente (navegador)
+- não é uma linguagem
+- se trata de um conjunto de técnicas para se ter uma melhor interação com o usuário
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <title>Minha página</title>
+    <!--apontando para os arquivos js-->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <!--apontando para os arquivos css-->
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-dark bg-dark" style="color: pink;">
+        <a class="navbar-brand text-white">Consulta CEP</a>
+        <div class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="CEP" id="cep">
+
+            <!--quando clicar no botão vai consultar o CEP-->
+            <button class="btn btn-outline-success my-2 my-sm-0" onclick="consultaCep()">Buscar</button>
+        </div>
+    </nav>
+
+    <div class="container barra-progresso" style="margin-top: 40px">
+        <div class="progress">
+            <div class="progress-bar progress-bar-striped bg-primary" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container cep" style="margin-top:20px;">
+        <div class="row">
+            <h3 id="titulo_cep">CEP</h3>
+        </div>
+        <div class="row" style="margin-top:20px;">
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <td>Logradouro</td>
+                        <td id="logradouro"></td>
+                    </tr>
+                    <tr>
+                        <td>Bairro</td>
+                        <td id="bairro"></td>
+                    </tr>
+                    <tr>
+                        <td>Localidade</td>
+                        <td id="localidade"></td>
+                    </tr>
+                    <tr>
+                        <td>UF</td>
+                        <td id="uf"></td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</body>
+</html>

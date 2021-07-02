@@ -1,0 +1,4 @@
+- é uma biblioteca de funções Javascript
+- facilita o uso de alguns efeitos, principalmente o uso de requisições ajax
+- uma das bibliotecas mais populares na internet
+- biblioteca de código aberto
