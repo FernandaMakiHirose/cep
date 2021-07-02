@@ -3,6 +3,7 @@ Digite o seu CEP na barra de pesquisa do navbar, com isso aparecerá uma tabela 
 
 - Download do JQuery https://jquery.com/download/ <br>
 - Download do Bootstrap https://getbootstrap.com/docs/5.0/getting-started/download/ <br> 
+Link do site: https://fernandamakihirose.github.io/ajax-jquery-bootstrap/ 
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
