@@ -5,6 +5,9 @@ Digite o seu CEP na barra de pesquisa do navbar, com isso aparecerá uma tabela 
 - Download do Bootstrap https://getbootstrap.com/docs/5.0/getting-started/download/ <br> 
 - Link do site: https://fernandamakihirose.github.io/ajax-jquery-bootstrap/ 
 
+## Pré-requisitos
+- Utilizar uma IDEA
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
