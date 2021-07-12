@@ -1,12 +1,13 @@
 # Projeto usando Ajax, Bootstrap e Jquery para encontrar o seu CEP
-Digite o seu CEP na barra de pesquisa do navbar, com isso aparecerá uma tabela indicando as informações do seu CEP.
+- Digite o seu CEP na barra de pesquisa do navbar, com isso aparecerá uma tabela indicando as informações do seu CEP.
+- <a href="https://fernandamakihirose.github.io/ajax-jquery-bootstrap/ " target="_blank">Clique aqui para jogar.</a>
 
+## Downloads usados
 - Download do JQuery https://jquery.com/download/ <br>
 - Download do Bootstrap https://getbootstrap.com/docs/5.0/getting-started/download/ <br> 
-- Link do site: https://fernandamakihirose.github.io/ajax-jquery-bootstrap/ 
 
 ## Pré-requisitos
-- Utilizar uma IDEA
+- IDEA instalada.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
