@@ -3,8 +3,8 @@
 - <a href="https://fernandamakihirose.github.io/ajax-jquery-bootstrap/" target="_blank">Clique aqui para jogar.</a>
 
 ## Downloads usados
-- <a href="https://jquery.com/download/" target="_blank">JQuery</a>
-- <a href="https://getbootstrap.com/docs/5.0/getting-started/download/" target="_blank">Bootstrap</a>
+- <a href="https://jquery.com/download/" target="_blank">JQuery.</a>
+- <a href="https://getbootstrap.com/docs/5.0/getting-started/download/" target="_blank">Bootstrap.</a>
 
 ## Pré-requisitos
 - IDEA instalada.
