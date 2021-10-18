@@ -10,5 +10,5 @@
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Downloads
-- <a href="https://jquery.com/download/" target="_blank">JQuery.</a>
+- <a href="https://jquery.com/download/" target="_blank">jQuery.</a>
 - <a href="https://getbootstrap.com/docs/5.0/getting-started/download/" target="_blank">Bootstrap.</a>
